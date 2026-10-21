@@ -1,4 +1,4 @@
-%% lb_scalar_mpc_pde.m  --  Lower bounds for finite-horizon data-driven MPC, scalar ARX(1,1),
+%%  --  Lower bounds for finite-horizon data-driven MPC, scalar ARX(1,1),
 %%                          optimal-bias bound solved with the PDE Toolbox (explicit Neumann condition)
 %
 % Same problem and setting as lb_scalar_mpc.m (Ritz version):
